@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hotel-Management-System.git/static/css/main.e4d80403.css",
+    "main.js": "/Hotel-Management-System.git/static/js/main.0d2b2e32.js",
+    "static/js/787.d3befce1.chunk.js": "/Hotel-Management-System.git/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/Hotel-Management-System.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Hotel-Management-System.git/index.html",
+    "main.e4d80403.css.map": "/Hotel-Management-System.git/static/css/main.e4d80403.css.map",
+    "main.0d2b2e32.js.map": "/Hotel-Management-System.git/static/js/main.0d2b2e32.js.map",
+    "787.d3befce1.chunk.js.map": "/Hotel-Management-System.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d80403.css",
+    "static/js/main.0d2b2e32.js"
+  ]
+}
